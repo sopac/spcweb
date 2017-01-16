@@ -1,0 +1,18 @@
+version: '2'
+
+services:
+
+  wordpress:
+    build: .
+    ports:
+      - 80:80
+    environment:
+      WORDPRESS_DB_PASSWORD: erlang44
+    #volumes:
+    #  - ./uploads.ini:/usr/local/etc/php/conf.d/uploads.ini
+
+  mysql:
+    image: mariadb:latest
+    environment:
+      MYSQL_ROOT_PASSWORD: erlang44
+
