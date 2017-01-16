@@ -4,7 +4,7 @@
 ### Requirements
 
 * Docker installation with docker-compose.
-* Licensed versions of Extra and Divi themes, along with Divi-Builder plugin from eleganthemes.com,and saved as extra.zip, divi.zip and divi-plugin.zip respectively in the cloned project folder.
+* Licensed versions of Extra and Divi themes, along with Divi-Builder plugin from eleganthemes.com, and saved as extra.zip, divi.zip and divi-plugin.zip respectively in the cloned project folder.
 
 
 ### Installation
