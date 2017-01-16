@@ -15,3 +15,15 @@
 
 3. Run `./setup.sh`
 
+### Subsequent Runs
+
+`docker-compose up -d`
+
+### Stopping Containers
+
+`docker-compose stop`
+
+### Destroying Containers
+
+`docker-compose down`
+
